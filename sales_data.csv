@@ -1,0 +1,1001 @@
+SALE_DATE;PRODUCT;QUANTITY;UNIT_VALUE;TOTAL_VALUE;STORE;PAYMENT_METHOD;STATE
+2022-01-08;Product D;7;575.02;4025.14;Store 2;Credit Card;State 1
+2023-11-30;Product C;21;711.53;14942.13;Store 3;Cash;State 3
+2020-07-25;Product C;91;268.12;24398.92;Store 3;Online Payment;State 4
+2023-03-30;Product A;45;541.03;24346.35;Store 2;Online Payment;State 1
+2023-10-07;Product A;69;586.82;40490.58;Store 1;Cash;State 2
+2022-05-18;Product B;49;290.21;14220.29;Store 1;Cash;State 1
+2021-01-25;Product C;9;543.47;4891.23;Store 2;Credit Card;State 2
+2023-03-07;Product B;61;166.06;10129.66;Store 1;Credit Card;State 3
+2021-12-27;Product C;80;575.54;46043.2;Store 4;Online Payment;State 3
+2020-01-10;Product D;69;297.11;20500.59;Store 3;Online Payment;State 1
+2020-12-23;Product B;71;559.89;39752.19;Store 4;Debit Card;State 4
+2021-05-15;Product B;91;712.35;64823.85;Store 1;Cash;State 2
+2021-05-10;Product D;34;650.12;22104.08;Store 1;Debit Card;State 1
+2023-07-27;Product D;72;775.6;55843.2;Store 2;Debit Card;State 4
+2022-12-30;Product B;33;369.64;12198.12;Store 1;Online Payment;State 4
+2021-03-21;Product A;6;747.5;4485.0;Store 4;Online Payment;State 4
+2021-05-17;Product B;28;974.05;27273.4;Store 2;Debit Card;State 1
+2020-12-15;Product C;37;521.7;19302.9;Store 2;Cash;State 3
+2020-07-01;Product A;13;877.73;11410.49;Store 2;Cash;State 3
+2020-12-14;Product C;61;363.03;22144.83;Store 1;Cash;State 2
+2022-01-09;Product C;19;746.57;14184.83;Store 1;Debit Card;State 2
+2022-06-09;Product D;77;400.35;30826.95;Store 2;Credit Card;State 1
+2023-03-04;Product D;7;812.53;5687.71;Store 3;Cash;State 2
+2021-08-24;Product C;29;724.15;21000.35;Store 4;Cash;State 4
+2021-11-29;Product D;28;911.28;25515.84;Store 4;Credit Card;State 4
+2021-10-10;Product D;21;864.79;18160.59;Store 2;Debit Card;State 4
+2022-03-04;Product B;83;706.48;58637.84;Store 2;Debit Card;State 1
+2023-01-17;Product D;96;955.05;91684.8;Store 2;Credit Card;State 1
+2020-11-13;Product A;97;472.28;45811.16;Store 2;Cash;State 3
+2022-12-21;Product A;13;913.48;11875.24;Store 2;Credit Card;State 4
+2021-02-13;Product C;45;104.81;4716.45;Store 3;Online Payment;State 4
+2023-07-14;Product C;72;139.54;10046.88;Store 2;Online Payment;State 4
+2021-11-06;Product B;85;760.99;64684.15;Store 4;Debit Card;State 1
+2023-01-27;Product D;22;971.13;21364.86;Store 2;Cash;State 1
+2022-01-06;Product D;94;834.36;78429.84;Store 4;Online Payment;State 1
+2022-01-24;Product D;61;920.38;56143.18;Store 2;Online Payment;State 2
+2021-12-05;Product C;38;821.17;31204.46;Store 3;Cash;State 4
+2020-02-05;Product C;77;144.39;11118.03;Store 3;Online Payment;State 2
+2022-09-17;Product A;16;286.12;4577.92;Store 1;Online Payment;State 2
+2020-10-10;Product D;91;118.78;10808.98;Store 3;Cash;State 2
+2023-02-18;Product A;27;427.65;11546.55;Store 3;Debit Card;State 4
+2023-03-14;Product D;13;309.5;4023.5;Store 2;Cash;State 2
+2023-01-13;Product A;47;554.56;26064.32;Store 2;Credit Card;State 4
+2021-11-26;Product D;36;894.23;32192.28;Store 3;Online Payment;State 3
+2021-11-22;Product C;29;850.67;24669.43;Store 3;Debit Card;State 4
+2022-08-15;Product C;76;101.84;7739.84;Store 4;Credit Card;State 1
+2021-03-18;Product C;64;147.1;9414.4;Store 2;Debit Card;State 4
+2020-01-18;Product B;3;323.31;969.93;Store 3;Cash;State 2
+2023-08-19;Product C;71;686.19;48719.49;Store 3;Debit Card;State 1
+2021-07-20;Product A;62;318.96;19775.52;Store 1;Debit Card;State 3
+2023-04-20;Product C;37;502.25;18583.25;Store 3;Debit Card;State 4
+2021-06-11;Product C;57;310.75;17712.75;Store 1;Debit Card;State 2
+2023-12-13;Product C;39;689.12;26875.68;Store 2;Cash;State 3
+2021-01-09;Product D;32;302.86;9691.52;Store 1;Cash;State 4
+2022-02-03;Product C;67;985.67;66039.89;Store 2;Debit Card;State 4
+2020-11-24;Product A;51;557.15;28414.65;Store 3;Online Payment;State 3
+2022-05-18;Product A;97;847.92;82248.24;Store 1;Cash;State 2
+2023-03-31;Product B;7;576.78;4037.46;Store 1;Online Payment;State 2
+2020-11-26;Product D;5;979.15;4895.75;Store 1;Online Payment;State 1
+2022-04-28;Product A;91;513.16;46697.56;Store 1;Online Payment;State 4
+2022-07-17;Product B;59;916.35;54064.65;Store 4;Online Payment;State 3
+2022-03-01;Product C;32;515.17;16485.44;Store 4;Online Payment;State 2
+2021-02-24;Product C;8;366.98;2935.84;Store 2;Debit Card;State 3
+2023-04-10;Product C;89;577.88;51431.32;Store 1;Online Payment;State 2
+2020-07-11;Product C;67;740.03;49582.01;Store 2;Cash;State 2
+2020-12-16;Product D;4;920.99;3683.96;Store 4;Credit Card;State 3
+2021-07-01;Product D;6;301.11;1806.66;Store 3;Credit Card;State 1
+2020-08-12;Product D;80;174.14;13931.2;Store 2;Credit Card;State 4
+2022-11-24;Product A;40;230.98;9239.2;Store 4;Credit Card;State 4
+2020-10-05;Product B;7;373.47;2614.29;Store 2;Debit Card;State 1
+2021-08-18;Product A;59;917.7;54144.3;Store 3;Cash;State 4
+2020-08-19;Product A;27;205.32;5543.64;Store 4;Debit Card;State 2
+2023-03-04;Product C;82;390.86;32050.52;Store 4;Cash;State 4
+2022-01-07;Product D;58;383.02;22215.16;Store 2;Credit Card;State 1
+2023-09-28;Product C;84;467.74;39290.16;Store 1;Cash;State 1
+2020-10-28;Product C;25;275.86;6896.5;Store 4;Debit Card;State 4
+2022-09-10;Product C;90;293.79;26441.1;Store 3;Cash;State 4
+2022-04-06;Product B;66;469.15;30963.9;Store 4;Credit Card;State 3
+2021-10-10;Product A;6;765.13;4590.78;Store 2;Credit Card;State 2
+2020-10-09;Product A;69;753.55;51994.95;Store 3;Credit Card;State 3
+2023-04-26;Product A;17;248.39;4222.63;Store 2;Debit Card;State 2
+2021-04-16;Product B;72;918.64;66142.08;Store 2;Credit Card;State 1
+2020-09-27;Product C;74;183.92;13610.08;Store 4;Credit Card;State 3
+2023-04-10;Product D;93;568.99;52916.07;Store 4;Credit Card;State 3
+2023-05-07;Product A;92;295.48;27184.16;Store 3;Credit Card;State 2
+2023-01-11;Product B;92;316.47;29115.24;Store 3;Cash;State 2
+2021-12-11;Product C;54;134.59;7267.86;Store 3;Online Payment;State 1
+2021-09-11;Product C;13;934.67;12150.71;Store 4;Cash;State 3
+2021-01-28;Product C;61;884.95;53981.95;Store 4;Cash;State 3
+2022-06-20;Product C;91;992.69;90334.79;Store 1;Online Payment;State 2
+2022-08-03;Product A;68;727.3;49456.4;Store 2;Debit Card;State 2
+2021-12-21;Product B;21;243.04;5103.84;Store 1;Debit Card;State 2
+2020-02-15;Product B;78;576.35;44955.3;Store 4;Cash;State 2
+2020-05-16;Product C;2;750.15;1500.3;Store 4;Online Payment;State 1
+2021-06-17;Product B;98;166.82;16348.36;Store 3;Debit Card;State 2
+2023-04-23;Product C;72;452.53;32582.16;Store 4;Debit Card;State 3
+2022-01-09;Product A;27;645.68;17433.36;Store 3;Online Payment;State 2
+2022-01-14;Product C;80;259.2;20736.0;Store 4;Credit Card;State 1
+2021-11-21;Product A;42;247.4;10390.8;Store 2;Credit Card;State 2
+2020-04-05;Product D;61;977.26;59612.86;Store 3;Debit Card;State 2
+2023-07-08;Product D;68;440.98;29986.64;Store 3;Cash;State 3
+2021-06-29;Product B;9;995.35;8958.15;Store 4;Credit Card;State 4
+2022-05-08;Product B;83;173.51;14401.33;Store 3;Debit Card;State 4
+2023-09-05;Product C;17;731.17;12429.89;Store 1;Online Payment;State 4
+2022-01-14;Product B;73;439.16;32058.68;Store 3;Credit Card;State 4
+2021-10-14;Product B;100;250.59;25059.0;Store 2;Cash;State 4
+2021-10-17;Product A;6;922.78;5536.68;Store 3;Debit Card;State 4
+2021-10-09;Product C;74;146.83;10865.42;Store 3;Debit Card;State 3
+2020-11-24;Product A;80;975.2;78016.0;Store 2;Online Payment;State 1
+2020-06-15;Product D;22;629.32;13845.04;Store 2;Debit Card;State 2
+2020-02-01;Product D;50;473.55;23677.5;Store 4;Debit Card;State 2
+2022-10-07;Product B;48;779.64;37422.72;Store 3;Cash;State 4
+2021-07-01;Product B;35;824.27;28849.45;Store 4;Credit Card;State 2
+2020-10-31;Product C;33;563.07;18581.31;Store 3;Credit Card;State 2
+2020-02-28;Product A;56;355.44;19904.64;Store 3;Cash;State 1
+2020-08-04;Product A;89;925.75;82391.75;Store 2;Credit Card;State 3
+2022-12-25;Product A;43;373.97;16080.71;Store 2;Cash;State 3
+2021-02-28;Product C;11;701.4;7715.4;Store 4;Debit Card;State 2
+2021-01-01;Product C;82;232.12;19033.84;Store 2;Cash;State 3
+2022-06-08;Product A;15;794.68;11920.2;Store 1;Online Payment;State 1
+2023-09-04;Product D;89;740.06;65865.34;Store 1;Credit Card;State 4
+2023-04-11;Product D;6;230.01;1380.06;Store 2;Debit Card;State 1
+2022-04-05;Product A;35;739.88;25895.8;Store 3;Credit Card;State 4
+2022-09-20;Product D;63;682.23;42980.49;Store 1;Online Payment;State 2
+2023-05-05;Product C;98;959.38;94019.24;Store 4;Cash;State 3
+2022-10-07;Product D;21;471.95;9910.95;Store 3;Cash;State 2
+2021-03-05;Product C;44;250.36;11015.84;Store 3;Online Payment;State 1
+2021-09-20;Product B;22;472.19;10388.18;Store 2;Debit Card;State 2
+2020-12-29;Product A;24;643.15;15435.6;Store 3;Cash;State 3
+2020-11-14;Product A;94;930.31;87449.14;Store 2;Online Payment;State 4
+2020-12-23;Product A;55;156.24;8593.2;Store 2;Debit Card;State 1
+2021-08-07;Product A;40;848.69;33947.6;Store 3;Debit Card;State 1
+2020-12-06;Product A;54;276.79;14946.66;Store 4;Debit Card;State 4
+2023-06-07;Product D;98;369.84;36244.32;Store 2;Debit Card;State 3
+2022-01-22;Product C;25;459.26;11481.5;Store 2;Cash;State 3
+2020-02-03;Product B;56;936.68;52454.08;Store 4;Cash;State 4
+2021-02-26;Product B;44;244.59;10761.96;Store 3;Debit Card;State 1
+2023-09-17;Product D;99;999.87;98987.13;Store 1;Cash;State 4
+2021-11-05;Product B;25;577.01;14425.25;Store 3;Debit Card;State 3
+2023-12-18;Product D;24;281.27;6750.48;Store 1;Online Payment;State 4
+2022-01-21;Product C;37;143.16;5296.92;Store 1;Online Payment;State 2
+2023-01-13;Product C;37;937.05;34670.85;Store 2;Online Payment;State 4
+2020-02-01;Product B;27;225.15;6079.05;Store 4;Cash;State 3
+2021-05-06;Product C;66;247.55;16338.3;Store 3;Credit Card;State 3
+2022-08-31;Product A;1;919.58;919.58;Store 2;Cash;State 3
+2022-06-29;Product C;70;118.52;8296.4;Store 2;Online Payment;State 4
+2020-12-22;Product C;17;918.24;15610.08;Store 4;Debit Card;State 3
+2022-03-16;Product B;62;921.36;57124.32;Store 2;Cash;State 2
+2023-03-12;Product C;100;270.93;27093.0;Store 2;Online Payment;State 2
+2021-08-12;Product D;29;832.85;24152.65;Store 3;Online Payment;State 3
+2022-04-03;Product C;82;583.92;47881.44;Store 2;Cash;State 3
+2022-03-06;Product A;41;432.4;17728.4;Store 3;Credit Card;State 4
+2023-05-28;Product A;71;886.52;62942.92;Store 3;Debit Card;State 4
+2021-01-18;Product D;30;250.22;7506.6;Store 4;Online Payment;State 4
+2022-05-10;Product B;55;921.97;50708.35;Store 2;Credit Card;State 3
+2022-08-29;Product B;58;909.55;52753.9;Store 3;Online Payment;State 2
+2020-10-12;Product D;30;718.33;21549.9;Store 1;Debit Card;State 2
+2021-06-30;Product D;20;520.76;10415.2;Store 3;Online Payment;State 3
+2021-09-05;Product C;40;226.11;9044.4;Store 1;Debit Card;State 2
+2020-04-02;Product B;29;239.39;6942.31;Store 1;Cash;State 3
+2021-11-16;Product B;17;851.23;14470.91;Store 1;Cash;State 4
+2020-09-24;Product C;42;307.79;12927.18;Store 4;Credit Card;State 3
+2021-07-03;Product A;87;458.55;39893.85;Store 2;Online Payment;State 4
+2023-04-30;Product D;12;821.69;9860.28;Store 1;Debit Card;State 4
+2020-06-11;Product D;99;961.38;95176.62;Store 4;Cash;State 4
+2020-07-15;Product B;7;306.55;2145.85;Store 1;Online Payment;State 3
+2021-07-16;Product D;93;973.61;90545.73;Store 4;Cash;State 2
+2023-05-28;Product D;66;472.07;31156.62;Store 2;Online Payment;State 1
+2020-03-15;Product B;56;715.33;40058.48;Store 3;Debit Card;State 1
+2021-03-09;Product C;86;967.99;83247.14;Store 2;Cash;State 2
+2020-12-05;Product D;67;567.48;38021.16;Store 3;Credit Card;State 3
+2022-01-03;Product A;3;980.75;2942.25;Store 1;Cash;State 1
+2021-01-14;Product C;10;257.81;2578.1;Store 2;Debit Card;State 1
+2021-10-14;Product C;43;557.68;23980.24;Store 2;Debit Card;State 4
+2023-04-10;Product D;23;853.81;19637.63;Store 4;Online Payment;State 3
+2020-12-17;Product B;84;535.69;44997.96;Store 3;Debit Card;State 4
+2023-05-21;Product C;61;768.43;46874.23;Store 4;Debit Card;State 2
+2023-10-13;Product A;49;566.01;27734.49;Store 2;Online Payment;State 4
+2022-11-06;Product A;12;373.77;4485.24;Store 3;Cash;State 1
+2022-09-20;Product D;12;680.64;8167.68;Store 2;Online Payment;State 4
+2022-07-03;Product A;49;936.96;45911.04;Store 4;Online Payment;State 4
+2022-02-18;Product C;83;433.55;35984.65;Store 2;Debit Card;State 3
+2023-08-13;Product D;41;710.38;29125.58;Store 1;Cash;State 4
+2023-11-20;Product A;74;209.76;15522.24;Store 4;Cash;State 3
+2022-11-29;Product D;14;950.82;13311.48;Store 2;Cash;State 2
+2022-01-03;Product D;51;890.69;45425.19;Store 3;Cash;State 1
+2022-08-02;Product D;41;514.23;21083.43;Store 4;Credit Card;State 2
+2023-05-30;Product C;10;727.59;7275.9;Store 2;Cash;State 3
+2020-03-29;Product A;25;419.08;10477.0;Store 2;Cash;State 4
+2022-10-28;Product A;89;686.62;61109.18;Store 3;Online Payment;State 3
+2020-10-27;Product B;25;820.9;20522.5;Store 1;Debit Card;State 2
+2020-01-23;Product D;77;833.99;64217.23;Store 4;Credit Card;State 1
+2021-11-20;Product B;27;858.55;23180.85;Store 4;Cash;State 1
+2023-03-12;Product C;69;726.98;50161.62;Store 1;Debit Card;State 1
+2020-02-09;Product B;12;790.94;9491.28;Store 2;Online Payment;State 1
+2020-07-06;Product A;91;545.29;49621.39;Store 1;Credit Card;State 1
+2020-01-01;Product B;20;594.7;11894.0;Store 4;Cash;State 4
+2022-12-01;Product C;82;997.98;81834.36;Store 4;Credit Card;State 2
+2021-06-13;Product B;94;901.62;84752.28;Store 4;Debit Card;State 2
+2021-06-06;Product D;75;822.84;61713.0;Store 2;Credit Card;State 2
+2020-07-24;Product B;45;937.43;42184.35;Store 1;Online Payment;State 1
+2020-11-13;Product A;5;853.52;4267.6;Store 4;Online Payment;State 3
+2021-12-16;Product D;99;695.26;68830.74;Store 2;Debit Card;State 3
+2023-10-18;Product D;72;439.0;31608.0;Store 1;Online Payment;State 1
+2023-10-29;Product B;47;604.63;28417.61;Store 2;Online Payment;State 2
+2023-08-02;Product D;84;640.61;53811.24;Store 3;Online Payment;State 1
+2021-07-20;Product B;41;493.49;20233.09;Store 1;Debit Card;State 3
+2022-07-30;Product C;61;932.79;56900.19;Store 1;Debit Card;State 3
+2021-12-19;Product C;38;962.23;36564.74;Store 2;Credit Card;State 2
+2023-12-17;Product B;89;419.79;37361.31;Store 2;Credit Card;State 4
+2020-05-30;Product B;8;392.05;3136.4;Store 1;Debit Card;State 4
+2023-10-01;Product B;6;149.27;895.62;Store 3;Debit Card;State 2
+2021-11-25;Product B;99;166.33;16466.67;Store 2;Credit Card;State 2
+2023-10-19;Product C;48;877.92;42140.16;Store 3;Credit Card;State 2
+2020-01-25;Product C;61;604.64;36883.04;Store 4;Credit Card;State 1
+2023-03-31;Product C;44;300.54;13223.76;Store 1;Debit Card;State 1
+2021-02-06;Product D;15;181.08;2716.2;Store 1;Credit Card;State 1
+2020-05-26;Product C;75;668.9;50167.5;Store 2;Cash;State 2
+2022-05-13;Product C;52;405.86;21104.72;Store 4;Debit Card;State 1
+2020-03-10;Product A;26;580.73;15098.98;Store 4;Cash;State 4
+2023-06-27;Product D;35;818.97;28663.95;Store 2;Online Payment;State 4
+2020-09-06;Product A;89;995.33;88584.37;Store 4;Debit Card;State 3
+2021-03-13;Product A;19;678.74;12896.06;Store 1;Credit Card;State 3
+2020-05-07;Product A;45;675.39;30392.55;Store 4;Credit Card;State 1
+2020-07-13;Product A;44;204.85;9013.4;Store 2;Cash;State 3
+2021-02-06;Product A;42;215.82;9064.44;Store 3;Debit Card;State 2
+2023-08-29;Product A;80;122.58;9806.4;Store 2;Cash;State 3
+2021-11-28;Product A;66;322.63;21293.58;Store 2;Cash;State 4
+2021-08-07;Product B;94;518.31;48721.14;Store 3;Cash;State 2
+2021-04-07;Product C;69;164.12;11324.28;Store 1;Debit Card;State 3
+2020-05-22;Product B;69;529.61;36543.09;Store 3;Online Payment;State 3
+2020-11-15;Product C;39;930.51;36289.89;Store 3;Online Payment;State 3
+2020-05-12;Product A;25;322.83;8070.75;Store 4;Debit Card;State 4
+2021-10-28;Product B;85;473.42;40240.7;Store 1;Online Payment;State 1
+2023-01-01;Product D;13;185.15;2406.95;Store 3;Online Payment;State 3
+2021-09-22;Product C;39;541.1;21102.9;Store 3;Credit Card;State 3
+2021-05-07;Product C;36;525.15;18905.4;Store 1;Credit Card;State 1
+2020-02-23;Product B;57;192.78;10988.46;Store 4;Credit Card;State 1
+2021-04-12;Product B;28;601.46;16840.88;Store 2;Debit Card;State 1
+2023-05-22;Product C;49;140.87;6902.63;Store 4;Cash;State 2
+2023-07-15;Product D;88;345.36;30391.68;Store 1;Cash;State 3
+2021-08-14;Product D;94;525.29;49377.26;Store 2;Credit Card;State 2
+2021-09-04;Product A;84;718.34;60340.56;Store 2;Online Payment;State 3
+2023-09-25;Product C;11;655.1;7206.1;Store 4;Credit Card;State 2
+2022-11-08;Product C;50;502.5;25125.0;Store 2;Debit Card;State 2
+2022-03-06;Product B;88;242.09;21303.92;Store 3;Credit Card;State 2
+2023-08-13;Product A;42;924.34;38822.28;Store 4;Debit Card;State 1
+2023-10-11;Product C;72;257.61;18547.92;Store 1;Credit Card;State 3
+2023-10-19;Product A;15;685.68;10285.2;Store 2;Credit Card;State 3
+2022-08-06;Product A;37;326.78;12090.86;Store 3;Cash;State 4
+2023-04-29;Product B;28;861.27;24115.56;Store 4;Credit Card;State 1
+2022-05-07;Product C;94;964.37;90650.78;Store 3;Debit Card;State 4
+2021-12-20;Product B;94;864.85;81295.9;Store 2;Debit Card;State 3
+2020-08-07;Product B;37;856.36;31685.32;Store 2;Credit Card;State 2
+2023-11-11;Product C;49;757.15;37100.35;Store 4;Online Payment;State 2
+2020-02-20;Product C;6;275.47;1652.82;Store 4;Online Payment;State 1
+2022-08-23;Product B;70;231.58;16210.6;Store 1;Online Payment;State 4
+2020-09-14;Product D;86;385.0;33110.0;Store 1;Debit Card;State 3
+2021-03-11;Product D;56;237.71;13311.76;Store 4;Online Payment;State 2
+2023-03-05;Product A;32;442.18;14149.76;Store 3;Debit Card;State 4
+2022-02-16;Product B;36;666.46;23992.56;Store 4;Debit Card;State 2
+2022-02-20;Product B;80;476.14;38091.2;Store 1;Credit Card;State 2
+2022-07-20;Product D;83;650.57;53997.31;Store 2;Cash;State 4
+2023-03-04;Product A;32;882.2;28230.4;Store 3;Online Payment;State 3
+2020-07-29;Product B;14;909.82;12737.48;Store 3;Credit Card;State 1
+2020-07-15;Product D;40;313.41;12536.4;Store 2;Cash;State 3
+2020-06-15;Product C;96;904.46;86828.16;Store 1;Debit Card;State 1
+2021-03-01;Product D;83;253.97;21079.51;Store 4;Credit Card;State 4
+2023-01-22;Product D;13;102.84;1336.92;Store 4;Credit Card;State 2
+2022-06-30;Product A;2;875.17;1750.34;Store 1;Cash;State 2
+2021-09-12;Product A;5;558.09;2790.45;Store 2;Cash;State 2
+2020-02-18;Product C;35;685.29;23985.15;Store 2;Credit Card;State 2
+2020-02-22;Product C;65;647.91;42114.15;Store 2;Cash;State 4
+2023-07-10;Product C;57;690.83;39377.31;Store 4;Credit Card;State 2
+2023-11-18;Product B;44;782.21;34417.24;Store 2;Credit Card;State 2
+2022-04-16;Product A;11;667.07;7337.77;Store 1;Credit Card;State 2
+2021-07-28;Product A;66;994.66;65647.56;Store 4;Cash;State 1
+2022-02-20;Product A;29;932.79;27050.91;Store 2;Debit Card;State 3
+2021-03-04;Product B;50;868.9;43445.0;Store 2;Debit Card;State 4
+2022-02-15;Product B;80;873.92;69913.6;Store 2;Credit Card;State 1
+2020-01-21;Product B;36;477.07;17174.52;Store 2;Cash;State 3
+2022-08-31;Product B;13;211.62;2751.06;Store 3;Credit Card;State 2
+2023-08-17;Product B;94;677.22;63658.68;Store 3;Cash;State 1
+2021-06-13;Product C;10;381.84;3818.4;Store 3;Credit Card;State 2
+2022-07-12;Product A;50;370.34;18517.0;Store 2;Cash;State 4
+2022-10-28;Product B;64;258.95;16572.8;Store 4;Credit Card;State 2
+2022-10-27;Product A;11;509.47;5604.17;Store 3;Credit Card;State 4
+2021-07-25;Product A;28;591.34;16557.52;Store 3;Cash;State 3
+2023-03-29;Product B;99;708.08;70099.92;Store 3;Debit Card;State 4
+2022-07-27;Product B;91;112.96;10279.36;Store 1;Credit Card;State 3
+2021-08-17;Product D;93;125.03;11627.79;Store 3;Credit Card;State 4
+2020-02-28;Product C;87;821.43;71464.41;Store 4;Online Payment;State 2
+2020-09-07;Product D;3;628.45;1885.35;Store 3;Online Payment;State 4
+2020-05-31;Product D;58;272.01;15776.58;Store 4;Credit Card;State 2
+2023-12-11;Product D;3;405.36;1216.08;Store 4;Online Payment;State 4
+2021-08-10;Product C;19;320.14;6082.66;Store 1;Cash;State 1
+2023-06-26;Product B;7;711.57;4980.99;Store 2;Debit Card;State 1
+2023-11-25;Product A;30;255.22;7656.6;Store 3;Debit Card;State 4
+2022-03-01;Product D;11;677.79;7455.69;Store 3;Online Payment;State 2
+2021-01-22;Product A;53;158.81;8416.93;Store 3;Cash;State 2
+2021-10-13;Product D;82;287.1;23542.2;Store 1;Cash;State 1
+2023-06-10;Product B;1;159.09;159.09;Store 4;Credit Card;State 3
+2022-11-23;Product D;23;236.49;5439.27;Store 4;Online Payment;State 3
+2022-12-17;Product A;9;541.21;4870.89;Store 1;Online Payment;State 1
+2021-07-23;Product A;16;841.36;13461.76;Store 4;Cash;State 3
+2022-06-29;Product C;57;700.55;39931.35;Store 4;Debit Card;State 3
+2022-06-27;Product A;28;832.36;23306.08;Store 2;Online Payment;State 3
+2022-07-12;Product C;69;369.05;25464.45;Store 1;Cash;State 3
+2023-12-07;Product C;67;407.76;27319.92;Store 1;Cash;State 2
+2020-02-16;Product D;67;908.82;60890.94;Store 4;Cash;State 2
+2020-02-16;Product C;56;443.67;24845.52;Store 3;Cash;State 2
+2023-03-28;Product A;43;719.06;30919.58;Store 4;Cash;State 4
+2020-05-03;Product D;25;330.98;8274.5;Store 1;Credit Card;State 4
+2022-03-17;Product B;41;375.71;15404.11;Store 4;Online Payment;State 3
+2021-10-09;Product C;97;269.69;26159.93;Store 1;Cash;State 2
+2021-03-18;Product D;29;487.33;14132.57;Store 2;Credit Card;State 2
+2021-05-05;Product D;56;315.96;17693.76;Store 2;Debit Card;State 1
+2022-01-04;Product A;36;966.72;34801.92;Store 3;Cash;State 2
+2023-03-16;Product D;64;861.6;55142.4;Store 2;Credit Card;State 3
+2021-06-09;Product D;24;504.5;12108.0;Store 2;Online Payment;State 1
+2021-07-16;Product B;62;940.76;58327.12;Store 3;Online Payment;State 4
+2020-05-26;Product A;32;488.95;15646.4;Store 4;Cash;State 2
+2023-03-26;Product C;29;658.62;19099.98;Store 4;Debit Card;State 2
+2020-01-30;Product B;45;555.14;24981.3;Store 2;Credit Card;State 4
+2021-05-07;Product A;69;657.61;45375.09;Store 2;Credit Card;State 3
+2020-09-30;Product D;7;389.57;2726.99;Store 1;Debit Card;State 1
+2022-02-28;Product D;37;476.65;17636.05;Store 1;Cash;State 1
+2020-04-19;Product D;43;158.66;6822.38;Store 4;Cash;State 4
+2020-09-06;Product A;85;246.66;20966.1;Store 4;Online Payment;State 1
+2021-12-07;Product C;1;470.21;470.21;Store 4;Credit Card;State 3
+2022-04-26;Product B;95;990.57;94104.15;Store 4;Online Payment;State 4
+2023-10-05;Product B;70;766.3;53641.0;Store 2;Credit Card;State 2
+2021-01-27;Product B;89;533.18;47453.02;Store 4;Cash;State 4
+2023-12-26;Product C;59;586.42;34598.78;Store 4;Debit Card;State 3
+2023-02-28;Product C;53;333.16;17657.48;Store 1;Debit Card;State 3
+2022-11-14;Product D;41;569.7;23357.7;Store 3;Credit Card;State 4
+2022-10-09;Product B;26;167.89;4365.14;Store 1;Cash;State 2
+2021-02-21;Product A;81;516.91;41869.71;Store 1;Online Payment;State 2
+2020-04-08;Product D;9;435.38;3918.42;Store 3;Cash;State 3
+2022-03-21;Product B;82;553.25;45366.5;Store 1;Credit Card;State 2
+2021-08-17;Product D;1;138.72;138.72;Store 3;Credit Card;State 3
+2020-01-01;Product D;65;484.5;31492.5;Store 1;Online Payment;State 3
+2023-04-21;Product A;89;304.42;27093.38;Store 1;Cash;State 4
+2020-04-10;Product C;7;279.19;1954.33;Store 4;Online Payment;State 1
+2023-09-22;Product B;89;220.99;19668.11;Store 3;Debit Card;State 4
+2023-10-16;Product B;76;279.28;21225.28;Store 1;Online Payment;State 2
+2023-06-15;Product B;64;283.48;18142.72;Store 4;Cash;State 3
+2021-05-18;Product A;68;802.38;54561.84;Store 1;Debit Card;State 2
+2022-06-14;Product D;70;282.34;19763.8;Store 1;Online Payment;State 1
+2020-07-30;Product B;4;335.66;1342.64;Store 1;Debit Card;State 4
+2021-01-03;Product D;34;857.12;29142.08;Store 2;Debit Card;State 2
+2021-07-28;Product C;62;713.13;44214.06;Store 3;Debit Card;State 4
+2022-07-10;Product B;61;226.69;13828.09;Store 4;Credit Card;State 2
+2022-08-12;Product A;46;444.49;20446.54;Store 2;Online Payment;State 4
+2023-12-10;Product C;90;906.62;81595.8;Store 2;Online Payment;State 2
+2020-11-04;Product A;23;614.8;14140.4;Store 1;Cash;State 1
+2023-08-22;Product D;12;616.22;7394.64;Store 4;Credit Card;State 3
+2022-08-22;Product B;80;781.4;62512.0;Store 3;Debit Card;State 3
+2021-09-17;Product D;76;776.56;59018.56;Store 3;Cash;State 1
+2021-11-29;Product A;70;544.54;38117.8;Store 4;Credit Card;State 1
+2023-01-28;Product B;17;442.19;7517.23;Store 2;Cash;State 1
+2023-01-11;Product C;98;345.69;33877.62;Store 4;Debit Card;State 1
+2021-02-25;Product B;77;635.95;48968.15;Store 1;Online Payment;State 2
+2020-05-17;Product D;51;809.53;41286.03;Store 3;Credit Card;State 2
+2023-05-04;Product D;10;632.66;6326.6;Store 1;Online Payment;State 1
+2022-04-16;Product C;100;987.46;98746.0;Store 2;Debit Card;State 2
+2021-05-18;Product A;96;230.4;22118.4;Store 4;Online Payment;State 3
+2022-03-29;Product B;48;136.52;6552.96;Store 3;Credit Card;State 3
+2021-05-01;Product D;85;593.06;50410.1;Store 3;Online Payment;State 3
+2021-11-15;Product C;53;219.51;11634.03;Store 2;Online Payment;State 2
+2021-09-05;Product C;23;178.24;4099.52;Store 2;Credit Card;State 3
+2022-11-20;Product B;83;624.67;51847.61;Store 1;Online Payment;State 4
+2021-12-01;Product A;99;604.32;59827.68;Store 2;Debit Card;State 2
+2020-10-07;Product C;57;401.81;22903.17;Store 3;Debit Card;State 2
+2023-04-13;Product D;35;850.25;29758.75;Store 3;Credit Card;State 3
+2023-10-16;Product C;97;731.17;70923.49;Store 4;Debit Card;State 2
+2023-12-17;Product B;95;393.75;37406.25;Store 1;Online Payment;State 2
+2023-09-23;Product D;49;927.59;45451.91;Store 4;Credit Card;State 2
+2023-03-16;Product A;6;941.15;5646.9;Store 4;Online Payment;State 3
+2023-09-08;Product C;67;147.12;9857.04;Store 2;Debit Card;State 3
+2021-07-30;Product D;95;706.29;67097.55;Store 2;Cash;State 2
+2021-08-22;Product D;24;898.99;21575.76;Store 3;Online Payment;State 4
+2020-04-30;Product B;50;303.78;15189.0;Store 3;Credit Card;State 1
+2022-04-19;Product C;46;860.38;39577.48;Store 1;Online Payment;State 2
+2023-09-17;Product B;40;656.49;26259.6;Store 4;Debit Card;State 4
+2023-02-19;Product C;92;636.01;58512.92;Store 1;Credit Card;State 2
+2023-08-19;Product A;54;124.16;6704.64;Store 4;Online Payment;State 3
+2021-10-30;Product A;34;117.88;4007.92;Store 4;Credit Card;State 3
+2021-09-09;Product D;67;373.96;25055.32;Store 4;Online Payment;State 1
+2020-03-30;Product C;15;565.88;8488.2;Store 1;Online Payment;State 1
+2020-08-01;Product C;15;118.2;1773.0;Store 1;Debit Card;State 3
+2023-01-21;Product D;33;247.24;8158.92;Store 1;Cash;State 2
+2023-12-07;Product B;52;781.28;40626.56;Store 4;Debit Card;State 2
+2021-12-29;Product A;72;863.39;62164.08;Store 1;Cash;State 3
+2022-12-04;Product C;68;970.65;66004.2;Store 1;Cash;State 4
+2022-05-21;Product D;24;364.02;8736.48;Store 2;Online Payment;State 2
+2021-12-13;Product C;48;148.04;7105.92;Store 1;Credit Card;State 2
+2022-03-25;Product D;12;662.17;7946.04;Store 2;Cash;State 1
+2020-02-10;Product A;70;458.08;32065.6;Store 3;Credit Card;State 1
+2021-03-22;Product D;61;503.46;30711.06;Store 1;Credit Card;State 4
+2022-08-19;Product A;5;134.42;672.1;Store 1;Credit Card;State 4
+2021-11-20;Product B;14;969.45;13572.3;Store 4;Cash;State 2
+2022-01-27;Product C;36;753.41;27122.76;Store 3;Online Payment;State 3
+2021-04-27;Product C;72;263.03;18938.16;Store 3;Online Payment;State 3
+2023-02-05;Product C;5;567.7;2838.5;Store 3;Online Payment;State 4
+2020-06-08;Product D;25;765.09;19127.25;Store 4;Online Payment;State 4
+2020-01-27;Product D;75;115.1;8632.5;Store 1;Debit Card;State 2
+2022-09-25;Product A;17;505.02;8585.34;Store 2;Online Payment;State 1
+2022-07-20;Product D;52;327.41;17025.32;Store 4;Debit Card;State 3
+2021-09-06;Product D;42;897.28;37685.76;Store 3;Credit Card;State 1
+2020-04-22;Product B;35;359.28;12574.8;Store 3;Debit Card;State 1
+2021-12-03;Product C;44;801.68;35273.92;Store 2;Debit Card;State 1
+2021-10-28;Product D;16;583.06;9328.96;Store 3;Cash;State 3
+2022-01-18;Product A;89;894.92;79647.88;Store 4;Debit Card;State 3
+2022-02-10;Product D;82;202.83;16632.06;Store 4;Online Payment;State 3
+2022-04-13;Product A;36;268.14;9653.04;Store 3;Cash;State 2
+2023-05-05;Product D;52;907.16;47172.32;Store 3;Online Payment;State 4
+2023-07-31;Product C;43;819.29;35229.47;Store 1;Debit Card;State 2
+2022-12-07;Product B;49;750.87;36792.63;Store 2;Debit Card;State 4
+2020-02-15;Product D;32;648.32;20746.24;Store 4;Credit Card;State 4
+2022-10-13;Product A;83;607.33;50408.39;Store 1;Debit Card;State 4
+2023-09-01;Product A;29;833.86;24181.94;Store 3;Debit Card;State 1
+2021-08-10;Product A;82;143.31;11751.42;Store 2;Credit Card;State 1
+2020-10-04;Product B;3;910.61;2731.83;Store 2;Credit Card;State 1
+2022-05-24;Product A;89;517.78;46082.42;Store 2;Credit Card;State 4
+2023-10-23;Product D;100;390.72;39072.0;Store 2;Online Payment;State 2
+2022-07-01;Product D;74;495.85;36692.9;Store 3;Cash;State 2
+2022-01-24;Product B;92;429.22;39488.24;Store 3;Online Payment;State 1
+2023-12-18;Product B;93;813.44;75649.92;Store 1;Credit Card;State 4
+2021-08-25;Product B;48;821.9;39451.2;Store 1;Cash;State 2
+2023-05-15;Product A;31;699.62;21688.22;Store 1;Cash;State 1
+2023-08-25;Product A;9;281.69;2535.21;Store 3;Online Payment;State 1
+2021-12-21;Product D;20;972.14;19442.8;Store 1;Credit Card;State 2
+2022-12-27;Product B;97;221.65;21500.05;Store 1;Debit Card;State 1
+2020-10-21;Product A;82;682.05;55928.1;Store 4;Cash;State 1
+2021-03-22;Product A;17;279.18;4746.06;Store 3;Cash;State 4
+2021-01-18;Product D;65;925.01;60125.65;Store 4;Online Payment;State 3
+2022-01-18;Product D;26;170.42;4430.92;Store 3;Debit Card;State 2
+2021-10-09;Product D;62;816.18;50603.16;Store 4;Debit Card;State 2
+2023-04-15;Product C;3;213.51;640.53;Store 2;Cash;State 4
+2022-12-27;Product A;10;905.34;9053.4;Store 2;Online Payment;State 2
+2021-10-31;Product D;44;632.69;27838.36;Store 4;Online Payment;State 3
+2023-02-11;Product D;44;817.09;35951.96;Store 3;Online Payment;State 4
+2020-08-05;Product B;73;559.12;40815.76;Store 1;Debit Card;State 3
+2022-12-01;Product B;32;938.61;30035.52;Store 1;Credit Card;State 1
+2020-07-13;Product A;62;578.08;35840.96;Store 2;Credit Card;State 4
+2020-05-29;Product A;28;289.32;8100.96;Store 4;Online Payment;State 2
+2022-10-30;Product B;2;558.01;1116.02;Store 1;Debit Card;State 2
+2021-10-13;Product C;66;107.0;7062.0;Store 1;Debit Card;State 4
+2021-03-26;Product B;99;487.23;48235.77;Store 2;Credit Card;State 2
+2021-04-22;Product B;13;339.2;4409.6;Store 1;Debit Card;State 2
+2023-12-21;Product B;17;160.4;2726.8;Store 2;Debit Card;State 4
+2022-09-10;Product C;1;372.89;372.89;Store 4;Debit Card;State 1
+2021-11-15;Product B;61;423.96;25861.56;Store 2;Cash;State 3
+2023-03-16;Product B;24;963.51;23124.24;Store 3;Debit Card;State 2
+2023-08-23;Product D;64;298.21;19085.44;Store 3;Cash;State 2
+2022-07-02;Product D;20;183.39;3667.8;Store 3;Credit Card;State 1
+2023-02-20;Product D;53;344.78;18273.34;Store 3;Cash;State 4
+2021-07-27;Product C;71;800.55;56839.05;Store 2;Cash;State 2
+2023-12-02;Product D;12;392.74;4712.88;Store 2;Online Payment;State 1
+2023-05-25;Product B;73;570.9;41675.7;Store 2;Credit Card;State 4
+2022-12-10;Product C;93;896.28;83354.04;Store 2;Debit Card;State 3
+2021-06-16;Product A;85;951.63;80888.55;Store 3;Credit Card;State 3
+2023-09-16;Product D;49;755.79;37033.71;Store 2;Online Payment;State 2
+2021-06-02;Product C;6;701.98;4211.88;Store 1;Debit Card;State 2
+2022-01-07;Product C;65;388.93;25280.45;Store 4;Online Payment;State 3
+2020-09-23;Product B;98;168.8;16542.4;Store 3;Cash;State 1
+2022-10-03;Product C;82;206.13;16902.66;Store 3;Debit Card;State 3
+2022-12-10;Product C;80;199.15;15932.0;Store 1;Debit Card;State 3
+2023-07-06;Product A;67;994.99;66664.33;Store 4;Cash;State 4
+2022-12-06;Product B;14;902.47;12634.58;Store 1;Debit Card;State 4
+2020-03-28;Product B;38;144.93;5507.34;Store 4;Cash;State 4
+2021-02-19;Product D;62;656.75;40718.5;Store 3;Credit Card;State 1
+2021-04-11;Product C;93;384.2;35730.6;Store 3;Debit Card;State 1
+2020-08-28;Product C;46;628.06;28890.76;Store 3;Cash;State 2
+2023-05-09;Product D;81;546.71;44283.51;Store 1;Debit Card;State 4
+2022-01-10;Product C;90;256.22;23059.8;Store 4;Online Payment;State 2
+2021-10-30;Product A;41;289.4;11865.4;Store 3;Cash;State 3
+2020-05-28;Product B;73;544.16;39723.68;Store 1;Online Payment;State 3
+2023-10-01;Product D;16;768.06;12288.96;Store 4;Cash;State 1
+2023-11-03;Product D;35;520.37;18212.95;Store 3;Credit Card;State 1
+2023-01-27;Product A;29;537.16;15577.64;Store 4;Credit Card;State 1
+2022-12-14;Product B;64;378.48;24222.72;Store 1;Debit Card;State 3
+2022-09-18;Product C;38;213.41;8109.58;Store 4;Credit Card;State 2
+2020-07-12;Product B;75;634.86;47614.5;Store 2;Credit Card;State 2
+2020-12-24;Product B;52;774.49;40273.48;Store 2;Debit Card;State 2
+2021-05-05;Product A;47;162.45;7635.15;Store 2;Debit Card;State 4
+2023-04-15;Product A;44;622.35;27383.4;Store 1;Credit Card;State 2
+2020-08-02;Product C;65;370.48;24081.2;Store 4;Debit Card;State 1
+2020-01-14;Product D;21;712.81;14969.01;Store 3;Online Payment;State 4
+2021-12-23;Product B;7;842.86;5900.02;Store 2;Credit Card;State 3
+2020-10-11;Product B;20;145.52;2910.4;Store 3;Cash;State 1
+2023-02-10;Product B;39;347.46;13550.94;Store 1;Debit Card;State 1
+2022-06-30;Product D;73;941.55;68733.15;Store 3;Credit Card;State 2
+2022-09-18;Product C;10;227.86;2278.6;Store 1;Credit Card;State 3
+2022-01-31;Product C;57;989.52;56402.64;Store 3;Debit Card;State 1
+2022-02-03;Product C;22;702.22;15448.84;Store 4;Debit Card;State 2
+2023-11-10;Product A;88;714.08;62839.04;Store 4;Online Payment;State 4
+2021-05-11;Product A;18;515.01;9270.18;Store 2;Online Payment;State 3
+2020-01-17;Product C;41;297.95;12215.95;Store 1;Debit Card;State 3
+2022-11-23;Product A;62;923.04;57228.48;Store 1;Debit Card;State 3
+2022-02-09;Product B;84;765.0;64260.0;Store 4;Cash;State 2
+2022-06-22;Product B;9;248.94;2240.46;Store 3;Credit Card;State 4
+2023-07-12;Product B;72;957.93;68970.96;Store 4;Cash;State 1
+2020-10-09;Product A;6;140.26;841.56;Store 4;Debit Card;State 2
+2021-12-05;Product D;45;359.13;16160.85;Store 1;Credit Card;State 2
+2021-04-28;Product B;62;196.05;12155.1;Store 4;Credit Card;State 4
+2022-04-26;Product D;22;481.89;10601.58;Store 2;Debit Card;State 3
+2021-05-01;Product B;25;197.78;4944.5;Store 3;Online Payment;State 3
+2020-02-09;Product C;85;650.56;55297.6;Store 1;Credit Card;State 2
+2022-03-13;Product D;40;166.65;6666.0;Store 1;Credit Card;State 4
+2023-03-16;Product C;10;262.73;2627.3;Store 3;Online Payment;State 3
+2021-10-19;Product D;14;318.12;4453.68;Store 2;Credit Card;State 3
+2023-02-28;Product B;61;291.84;17802.24;Store 2;Cash;State 4
+2020-07-15;Product A;80;845.24;67619.2;Store 1;Online Payment;State 2
+2022-05-25;Product D;60;299.58;17974.8;Store 1;Credit Card;State 2
+2020-06-26;Product C;53;438.5;23240.5;Store 2;Debit Card;State 2
+2020-12-09;Product B;72;328.01;23616.72;Store 3;Cash;State 1
+2022-07-14;Product A;51;387.55;19765.05;Store 1;Credit Card;State 2
+2023-06-30;Product D;60;854.34;51260.4;Store 1;Debit Card;State 2
+2023-05-25;Product B;23;751.82;17291.86;Store 3;Debit Card;State 2
+2022-05-08;Product B;90;930.91;83781.9;Store 4;Cash;State 2
+2021-06-11;Product C;90;994.61;89514.9;Store 1;Credit Card;State 4
+2021-05-21;Product C;16;889.01;14224.16;Store 3;Cash;State 1
+2022-08-17;Product A;65;533.5;34677.5;Store 4;Cash;State 4
+2021-11-01;Product C;63;489.35;30829.05;Store 1;Online Payment;State 3
+2020-10-15;Product C;100;726.89;72689.0;Store 2;Credit Card;State 2
+2020-06-23;Product C;50;262.78;13139.0;Store 3;Online Payment;State 2
+2022-11-23;Product C;92;724.87;66688.04;Store 3;Cash;State 3
+2020-11-18;Product A;30;540.85;16225.5;Store 3;Cash;State 3
+2023-08-04;Product B;62;545.64;33829.68;Store 2;Online Payment;State 1
+2022-02-13;Product B;32;315.7;10102.4;Store 3;Debit Card;State 1
+2023-06-16;Product A;26;183.27;4765.02;Store 1;Cash;State 1
+2020-03-17;Product C;66;507.19;33474.54;Store 3;Online Payment;State 2
+2020-10-24;Product C;47;380.4;17878.8;Store 4;Credit Card;State 4
+2023-06-12;Product A;98;147.19;14424.62;Store 4;Credit Card;State 1
+2020-01-14;Product A;67;845.7;56661.9;Store 2;Credit Card;State 4
+2022-06-26;Product B;67;718.39;48132.13;Store 1;Online Payment;State 4
+2021-10-08;Product B;65;157.31;10225.15;Store 3;Debit Card;State 4
+2020-06-02;Product A;67;871.6;58397.2;Store 3;Cash;State 2
+2023-02-25;Product A;55;240.31;13217.05;Store 3;Credit Card;State 4
+2022-02-20;Product C;58;428.9;24876.2;Store 3;Credit Card;State 3
+2021-05-21;Product D;31;716.7;22217.7;Store 4;Cash;State 4
+2022-07-02;Product A;54;996.56;53814.24;Store 1;Cash;State 4
+2022-05-18;Product A;29;649.4;18832.6;Store 3;Cash;State 1
+2022-01-25;Product C;100;165.92;16592.0;Store 4;Online Payment;State 3
+2020-08-10;Product D;77;607.92;46809.84;Store 1;Debit Card;State 2
+2020-07-11;Product D;100;879.28;87928.0;Store 3;Cash;State 2
+2023-07-25;Product A;68;372.08;25301.44;Store 1;Cash;State 1
+2022-06-30;Product A;24;878.06;21073.44;Store 2;Debit Card;State 4
+2021-07-27;Product D;15;953.86;14307.9;Store 1;Cash;State 2
+2020-11-06;Product A;33;529.42;17470.86;Store 4;Cash;State 4
+2023-02-26;Product C;68;408.38;27769.84;Store 1;Cash;State 2
+2020-01-28;Product A;29;896.88;26009.52;Store 3;Credit Card;State 3
+2023-03-10;Product A;10;535.41;5354.1;Store 3;Debit Card;State 4
+2021-06-23;Product C;8;415.72;3325.76;Store 4;Debit Card;State 4
+2021-10-29;Product A;34;527.91;17948.94;Store 1;Online Payment;State 3
+2020-08-28;Product D;23;787.51;18112.73;Store 4;Debit Card;State 4
+2022-07-10;Product D;48;642.58;30843.84;Store 1;Cash;State 4
+2022-04-03;Product D;74;673.11;49810.14;Store 2;Online Payment;State 2
+2022-02-01;Product A;48;507.39;24354.72;Store 1;Online Payment;State 2
+2021-03-04;Product C;100;864.68;86468.0;Store 2;Online Payment;State 2
+2022-06-27;Product C;34;107.98;3671.32;Store 1;Online Payment;State 3
+2022-07-24;Product D;94;788.35;74104.9;Store 1;Online Payment;State 4
+2022-07-10;Product D;81;923.99;74843.19;Store 4;Cash;State 4
+2021-12-31;Product C;33;800.69;26422.77;Store 3;Cash;State 2
+2021-05-12;Product D;40;333.72;13348.8;Store 3;Debit Card;State 4
+2021-10-21;Product B;80;529.69;42375.2;Store 4;Cash;State 3
+2022-06-06;Product A;75;559.98;41998.5;Store 1;Debit Card;State 4
+2021-02-11;Product D;93;431.05;40087.65;Store 3;Debit Card;State 3
+2023-01-14;Product D;82;856.67;70246.94;Store 1;Online Payment;State 3
+2020-10-11;Product B;64;318.78;20401.92;Store 2;Online Payment;State 3
+2023-02-06;Product C;26;423.35;11007.1;Store 2;Online Payment;State 2
+2020-09-07;Product C;12;861.53;10338.36;Store 4;Online Payment;State 2
+2022-12-01;Product C;60;802.03;48121.8;Store 2;Online Payment;State 4
+2020-12-22;Product D;57;858.85;48954.45;Store 1;Debit Card;State 1
+2020-12-21;Product A;31;646.31;20035.61;Store 4;Cash;State 1
+2023-02-27;Product C;23;410.98;9452.54;Store 2;Debit Card;State 2
+2020-03-04;Product C;10;474.06;4740.6;Store 1;Online Payment;State 3
+2023-12-01;Product B;18;957.12;17228.16;Store 4;Online Payment;State 2
+2020-09-01;Product C;33;888.37;29316.21;Store 3;Debit Card;State 2
+2023-07-29;Product D;63;621.63;39162.69;Store 1;Online Payment;State 1
+2020-06-08;Product A;22;391.43;8611.46;Store 1;Cash;State 2
+2020-06-15;Product B;13;753.67;9797.71;Store 2;Credit Card;State 1
+2022-12-21;Product A;71;751.92;53386.32;Store 2;Credit Card;State 1
+2020-03-15;Product A;33;510.1;16833.3;Store 2;Cash;State 3
+2021-05-05;Product D;74;221.56;16395.44;Store 4;Debit Card;State 1
+2022-10-06;Product C;5;433.25;2166.25;Store 1;Debit Card;State 1
+2023-03-03;Product C;38;632.11;24020.18;Store 4;Online Payment;State 3
+2023-07-20;Product A;60;828.87;49732.2;Store 3;Online Payment;State 3
+2023-03-05;Product A;2;876.6;1753.2;Store 4;Cash;State 3
+2021-10-06;Product B;76;563.34;42813.84;Store 1;Credit Card;State 1
+2022-03-25;Product A;89;557.9;49653.1;Store 2;Cash;State 4
+2020-08-30;Product A;88;968.41;85220.08;Store 2;Online Payment;State 2
+2022-07-02;Product A;23;777.37;17879.51;Store 4;Debit Card;State 1
+2020-05-30;Product C;33;886.78;29263.74;Store 1;Credit Card;State 1
+2022-01-20;Product D;77;113.26;8721.02;Store 4;Debit Card;State 3
+2022-12-29;Product C;6;750.3;4501.8;Store 2;Online Payment;State 2
+2020-09-27;Product A;71;394.0;27974.0;Store 1;Credit Card;State 3
+2022-06-02;Product A;91;555.19;50522.29;Store 3;Credit Card;State 2
+2022-02-06;Product D;83;195.86;16256.38;Store 1;Debit Card;State 3
+2021-01-04;Product B;56;539.24;30197.44;Store 2;Online Payment;State 4
+2021-12-11;Product D;33;284.69;9394.77;Store 1;Debit Card;State 1
+2020-03-04;Product C;55;834.16;45878.8;Store 3;Credit Card;State 4
+2022-08-23;Product C;52;421.6;21923.2;Store 2;Online Payment;State 2
+2021-11-27;Product C;6;655.16;3930.96;Store 2;Debit Card;State 4
+2023-11-06;Product D;1;990.77;990.77;Store 2;Online Payment;State 4
+2020-09-19;Product D;83;748.98;62165.34;Store 4;Debit Card;State 1
+2023-07-11;Product C;90;348.07;31326.3;Store 2;Cash;State 1
+2022-08-24;Product C;67;196.74;13181.58;Store 3;Online Payment;State 1
+2020-12-02;Product D;10;931.36;9313.6;Store 1;Online Payment;State 1
+2022-08-22;Product B;80;394.24;31539.2;Store 1;Cash;State 1
+2021-05-02;Product D;11;665.19;7317.09;Store 4;Credit Card;State 2
+2022-03-17;Product B;52;490.29;25495.08;Store 2;Debit Card;State 1
+2022-10-10;Product A;94;358.51;33699.94;Store 4;Cash;State 4
+2021-12-02;Product A;73;971.33;70907.09;Store 2;Online Payment;State 3
+2021-07-24;Product A;7;703.44;4924.08;Store 3;Online Payment;State 4
+2020-02-19;Product A;66;201.56;13302.96;Store 1;Debit Card;State 1
+2021-03-29;Product D;44;607.49;26729.56;Store 3;Online Payment;State 1
+2020-10-04;Product B;60;344.58;20674.8;Store 3;Cash;State 3
+2020-08-20;Product A;16;417.86;6685.76;Store 3;Online Payment;State 1
+2020-01-20;Product D;22;495.19;10894.18;Store 3;Debit Card;State 2
+2021-06-15;Product D;53;357.78;18962.34;Store 1;Cash;State 3
+2021-03-15;Product D;2;628.82;1257.64;Store 3;Online Payment;State 2
+2022-02-23;Product D;96;900.53;86450.88;Store 4;Cash;State 2
+2022-02-02;Product A;66;727.64;48024.24;Store 3;Cash;State 2
+2022-06-22;Product B;27;390.17;10534.59;Store 4;Cash;State 1
+2021-04-10;Product C;89;508.46;45252.94;Store 4;Online Payment;State 4
+2022-12-23;Product D;53;666.72;35336.16;Store 2;Online Payment;State 4
+2022-07-31;Product C;7;267.63;1873.41;Store 4;Credit Card;State 2
+2021-09-03;Product C;97;147.0;14259.0;Store 2;Debit Card;State 1
+2020-09-13;Product D;59;449.61;26526.99;Store 4;Debit Card;State 1
+2021-03-01;Product C;55;240.07;13203.85;Store 2;Debit Card;State 4
+2020-01-30;Product B;30;774.37;23231.1;Store 2;Online Payment;State 2
+2020-01-07;Product C;12;660.26;7923.12;Store 2;Cash;State 3
+2020-03-23;Product D;49;284.65;13947.85;Store 3;Cash;State 3
+2020-05-20;Product A;7;293.57;2054.99;Store 2;Credit Card;State 4
+2020-08-15;Product A;37;113.38;4195.06;Store 4;Debit Card;State 3
+2020-10-20;Product C;42;421.25;17692.5;Store 4;Credit Card;State 3
+2022-03-27;Product D;42;700.23;29409.66;Store 4;Online Payment;State 1
+2023-07-25;Product B;94;749.18;70422.92;Store 1;Credit Card;State 2
+2020-02-28;Product B;46;138.23;6358.58;Store 1;Cash;State 1
+2021-05-08;Product C;86;223.01;19178.86;Store 2;Online Payment;State 2
+2021-09-26;Product C;73;891.73;65096.29;Store 3;Credit Card;State 1
+2021-01-02;Product C;21;356.7;7490.7;Store 2;Cash;State 1
+2020-03-17;Product D;64;810.72;51886.08;Store 4;Cash;State 2
+2020-12-09;Product C;79;295.3;23328.7;Store 4;Cash;State 3
+2021-01-06;Product B;85;241.81;20553.85;Store 2;Online Payment;State 4
+2021-09-09;Product B;92;958.99;88227.08;Store 3;Online Payment;State 1
+2023-02-05;Product D;22;168.36;3703.92;Store 4;Credit Card;State 4
+2023-05-12;Product B;86;214.95;18485.7;Store 1;Credit Card;State 2
+2021-01-27;Product C;63;880.05;55443.15;Store 4;Credit Card;State 4
+2021-10-06;Product B;52;152.63;7936.76;Store 4;Online Payment;State 1
+2020-02-13;Product B;42;171.61;7207.62;Store 3;Online Payment;State 2
+2023-11-19;Product D;15;318.96;4784.4;Store 4;Debit Card;State 1
+2021-05-24;Product B;30;460.17;13805.1;Store 1;Online Payment;State 3
+2020-01-28;Product D;29;329.59;9558.11;Store 3;Debit Card;State 3
+2023-06-25;Product C;35;420.63;14722.05;Store 1;Online Payment;State 3
+2023-11-09;Product A;31;310.2;9616.2;Store 1;Online Payment;State 1
+2021-10-18;Product C;67;451.44;30246.48;Store 3;Cash;State 1
+2021-02-11;Product A;13;369.7;4806.1;Store 2;Online Payment;State 2
+2020-02-22;Product A;42;642.36;26979.12;Store 3;Online Payment;State 4
+2021-06-05;Product B;86;287.3;24707.8;Store 1;Cash;State 1
+2021-10-13;Product D;32;331.82;10618.24;Store 2;Credit Card;State 3
+2021-04-18;Product C;77;255.22;19651.94;Store 1;Credit Card;State 4
+2023-10-31;Product C;53;774.78;41063.34;Store 1;Online Payment;State 4
+2022-05-19;Product B;37;111.3;4118.1;Store 1;Debit Card;State 1
+2022-11-28;Product B;79;310.55;24533.45;Store 3;Online Payment;State 4
+2021-08-03;Product D;33;222.9;7355.7;Store 1;Credit Card;State 2
+2023-08-19;Product A;28;135.7;3799.6;Store 1;Credit Card;State 1
+2021-08-13;Product A;68;409.61;27853.48;Store 4;Online Payment;State 3
+2021-01-19;Product B;30;936.48;28094.4;Store 2;Debit Card;State 4
+2020-12-13;Product A;81;819.2;66355.2;Store 2;Debit Card;State 4
+2023-05-04;Product A;43;743.1;31953.3;Store 1;Online Payment;State 4
+2023-04-19;Product A;14;254.91;3568.74;Store 2;Cash;State 2
+2022-11-30;Product D;7;384.8;2693.6;Store 4;Credit Card;State 2
+2021-12-05;Product D;16;620.34;9925.44;Store 3;Debit Card;State 4
+2023-07-17;Product C;74;810.69;59991.06;Store 4;Cash;State 3
+2020-09-07;Product C;40;831.57;33262.8;Store 1;Online Payment;State 4
+2020-09-22;Product B;78;540.79;42181.62;Store 4;Online Payment;State 1
+2020-10-12;Product D;34;817.44;27792.96;Store 3;Cash;State 4
+2020-02-28;Product C;27;294.6;7954.2;Store 2;Cash;State 2
+2023-12-28;Product D;51;223.13;11379.63;Store 3;Debit Card;State 3
+2021-10-25;Product D;22;468.88;10315.36;Store 2;Debit Card;State 3
+2023-07-07;Product C;35;996.27;34869.45;Store 4;Online Payment;State 1
+2022-12-16;Product A;94;149.94;14094.36;Store 2;Debit Card;State 1
+2023-09-10;Product A;57;629.09;35858.13;Store 4;Cash;State 4
+2020-03-19;Product B;100;647.98;64798.0;Store 4;Credit Card;State 3
+2023-02-02;Product C;56;693.13;38815.28;Store 2;Credit Card;State 1
+2022-02-05;Product C;98;837.15;82040.7;Store 1;Debit Card;State 1
+2022-09-28;Product B;19;249.04;4731.76;Store 4;Cash;State 3
+2021-05-20;Product A;62;178.96;11095.52;Store 3;Online Payment;State 3
+2022-05-02;Product A;6;107.48;644.88;Store 4;Debit Card;State 3
+2022-05-19;Product C;89;229.86;20457.54;Store 1;Credit Card;State 4
+2020-11-26;Product A;46;316.32;14550.72;Store 2;Credit Card;State 3
+2022-08-25;Product D;74;424.23;31393.02;Store 3;Online Payment;State 3
+2023-11-24;Product B;55;130.37;7170.35;Store 3;Online Payment;State 4
+2022-07-11;Product B;79;939.79;74243.41;Store 4;Debit Card;State 1
+2021-04-14;Product D;45;694.59;31256.55;Store 4;Debit Card;State 1
+2021-07-29;Product C;42;176.31;7405.02;Store 2;Cash;State 2
+2020-06-24;Product B;99;892.2;88327.8;Store 3;Credit Card;State 1
+2023-05-19;Product B;10;319.45;3194.5;Store 2;Debit Card;State 1
+2021-02-15;Product D;98;194.94;19104.12;Store 2;Online Payment;State 3
+2021-06-03;Product B;72;539.05;38811.6;Store 4;Debit Card;State 2
+2022-01-20;Product C;70;663.42;46439.4;Store 4;Online Payment;State 4
+2022-11-25;Product B;86;594.75;51148.5;Store 4;Debit Card;State 2
+2020-12-03;Product B;39;769.06;29993.34;Store 4;Debit Card;State 2
+2022-07-10;Product B;59;746.86;44064.74;Store 3;Online Payment;State 4
+2023-12-25;Product D;54;1000.49;54026.46;Store 2;Cash;State 4
+2023-11-30;Product C;1;939.57;939.57;Store 3;Credit Card;State 1
+2021-07-19;Product D;69;725.92;50088.48;Store 3;Online Payment;State 1
+2021-03-30;Product D;22;642.56;14136.32;Store 2;Credit Card;State 2
+2021-01-25;Product A;59;537.08;31687.72;Store 2;Credit Card;State 2
+2023-03-22;Product B;82;370.42;30374.44;Store 3;Cash;State 3
+2023-11-30;Product C;51;839.12;42795.12;Store 4;Credit Card;State 2
+2021-04-20;Product C;38;683.66;25979.08;Store 3;Debit Card;State 3
+2020-12-06;Product C;20;888.99;17779.8;Store 3;Debit Card;State 3
+2023-10-24;Product D;76;628.67;47778.92;Store 4;Debit Card;State 1
+2021-05-20;Product D;43;924.35;39747.05;Store 1;Debit Card;State 4
+2021-06-19;Product C;55;766.87;42177.85;Store 4;Credit Card;State 2
+2020-06-14;Product A;86;838.73;72130.78;Store 3;Cash;State 3
+2022-10-18;Product C;88;157.27;13839.76;Store 4;Cash;State 4
+2021-10-09;Product C;16;764.2;12227.2;Store 3;Cash;State 3
+2021-03-12;Product D;65;482.14;31339.1;Store 3;Credit Card;State 2
+2023-07-16;Product B;71;322.14;22871.94;Store 2;Credit Card;State 4
+2021-10-03;Product B;45;396.09;17824.05;Store 2;Online Payment;State 2
+2022-03-07;Product D;88;198.41;17460.08;Store 2;Online Payment;State 2
+2022-08-12;Product D;30;353.62;10608.6;Store 4;Cash;State 2
+2023-03-19;Product C;43;163.56;7033.08;Store 2;Online Payment;State 1
+2022-05-07;Product D;77;498.93;38417.61;Store 4;Online Payment;State 4
+2020-12-18;Product D;27;251.73;6796.71;Store 1;Online Payment;State 1
+2020-02-26;Product D;49;917.94;44979.06;Store 3;Online Payment;State 2
+2021-04-12;Product A;45;326.53;14693.85;Store 3;Credit Card;State 4
+2023-06-01;Product C;79;965.33;76261.07;Store 2;Cash;State 3
+2023-11-02;Product D;98;884.95;86725.1;Store 3;Debit Card;State 2
+2021-02-21;Product D;5;600.53;3002.65;Store 3;Cash;State 1
+2021-10-25;Product A;45;820.36;36916.2;Store 2;Online Payment;State 2
+2020-06-08;Product A;53;682.74;36185.22;Store 1;Online Payment;State 2
+2021-03-02;Product B;64;291.01;18624.64;Store 4;Credit Card;State 3
+2023-12-05;Product D;4;711.31;2845.24;Store 3;Credit Card;State 1
+2021-01-03;Product A;63;301.73;19008.99;Store 4;Cash;State 1
+2022-11-05;Product A;3;498.51;1495.53;Store 1;Online Payment;State 2
+2023-07-01;Product A;13;537.18;6983.34;Store 3;Cash;State 1
+2023-03-16;Product C;55;830.89;45698.95;Store 4;Online Payment;State 1
+2021-01-10;Product A;18;815.74;14683.32;Store 3;Online Payment;State 2
+2020-03-05;Product A;44;860.56;37864.64;Store 2;Online Payment;State 4
+2022-03-31;Product A;1;753.48;753.48;Store 3;Cash;State 3
+2021-03-06;Product B;74;335.45;24823.3;Store 1;Credit Card;State 2
+2022-07-03;Product B;36;185.88;6691.68;Store 1;Online Payment;State 2
+2020-08-14;Product D;65;823.22;53509.3;Store 3;Cash;State 1
+2023-10-28;Product A;70;845.67;59196.9;Store 4;Online Payment;State 3
+2021-09-18;Product A;11;602.97;6632.67;Store 4;Online Payment;State 3
+2021-12-18;Product C;56;885.49;49587.44;Store 2;Online Payment;State 4
+2022-03-17;Product A;81;368.97;29886.57;Store 2;Debit Card;State 2
+2020-01-17;Product C;86;724.37;62295.82;Store 2;Online Payment;State 2
+2020-10-12;Product A;13;825.27;10728.51;Store 1;Debit Card;State 3
+2023-12-13;Product D;88;723.03;63626.64;Store 3;Cash;State 3
+2023-01-12;Product A;7;274.83;1923.81;Store 3;Online Payment;State 4
+2022-12-05;Product B;97;158.93;15416.21;Store 2;Cash;State 2
+2021-01-17;Product D;32;563.46;18030.72;Store 4;Credit Card;State 2
+2022-05-14;Product C;13;472.01;6136.13;Store 2;Online Payment;State 4
+2020-09-16;Product D;16;208.34;3333.44;Store 1;Debit Card;State 1
+2022-12-09;Product C;75;510.95;38321.25;Store 4;Cash;State 3
+2023-11-30;Product C;39;102.22;3986.58;Store 2;Credit Card;State 1
+2020-04-02;Product D;1;516.5;516.5;Store 2;Cash;State 4
+2023-12-12;Product B;27;472.68;12762.36;Store 3;Credit Card;State 4
+2023-04-17;Product C;52;434.58;22598.16;Store 1;Debit Card;State 4
+2020-04-06;Product B;49;363.22;17797.78;Store 2;Debit Card;State 4
+2022-01-14;Product B;11;682.22;7504.42;Store 2;Online Payment;State 4
+2022-06-04;Product D;95;895.73;85094.35;Store 2;Online Payment;State 2
+2020-02-08;Product D;30;442.58;13277.4;Store 1;Credit Card;State 3
+2023-09-23;Product D;100;475.11;47511.0;Store 2;Debit Card;State 2
+2023-08-18;Product C;46;767.16;35289.36;Store 4;Cash;State 2
+2020-01-14;Product D;57;138.17;7875.69;Store 4;Debit Card;State 2
+2023-05-16;Product C;61;306.51;18697.11;Store 1;Online Payment;State 2
+2022-04-09;Product A;24;535.47;12851.28;Store 3;Online Payment;State 3
+2020-10-24;Product D;4;878.95;3515.8;Store 1;Credit Card;State 2
+2021-12-14;Product A;8;376.59;3012.72;Store 4;Cash;State 1
+2023-07-01;Product C;55;123.67;6801.85;Store 2;Debit Card;State 3
+2022-09-13;Product A;34;863.77;29368.18;Store 4;Online Payment;State 2
+2022-09-15;Product A;97;756.98;73427.06;Store 1;Credit Card;State 3
+2020-01-17;Product A;49;453.58;22225.42;Store 4;Online Payment;State 3
+2022-09-03;Product A;3;614.7;1844.1;Store 2;Cash;State 4
+2020-06-25;Product B;56;467.13;26159.28;Store 1;Debit Card;State 2
+2020-06-03;Product C;3;815.34;2446.02;Store 1;Credit Card;State 3
+2023-07-08;Product C;79;850.4;67181.6;Store 2;Online Payment;State 1
+2020-02-21;Product A;89;542.89;48317.21;Store 4;Cash;State 1
+2023-01-26;Product B;92;979.27;90092.84;Store 4;Credit Card;State 4
+2020-01-23;Product C;17;595.91;10130.47;Store 3;Online Payment;State 3
+2022-01-05;Product D;38;707.26;26875.88;Store 2;Online Payment;State 2
+2023-12-27;Product B;75;357.09;26781.75;Store 2;Online Payment;State 3
+2022-05-06;Product B;53;460.87;24426.11;Store 4;Credit Card;State 2
+2022-06-03;Product C;51;268.91;13714.41;Store 2;Cash;State 1
+2021-02-08;Product D;27;887.57;23964.39;Store 2;Online Payment;State 2
+2021-07-26;Product C;88;293.61;25837.68;Store 1;Credit Card;State 3
+2020-04-09;Product C;77;699.28;53844.56;Store 4;Debit Card;State 3
+2023-03-08;Product D;55;997.89;54883.95;Store 4;Debit Card;State 2
+2023-08-23;Product D;95;276.02;26221.9;Store 2;Cash;State 1
+2022-01-04;Product B;63;699.01;44037.63;Store 1;Credit Card;State 4
+2021-11-25;Product B;82;611.09;50109.38;Store 2;Online Payment;State 3
+2022-07-31;Product B;16;627.45;10039.2;Store 3;Credit Card;State 3
+2020-01-25;Product D;68;507.84;34533.12;Store 3;Cash;State 4
+2023-11-01;Product A;19;556.8;10579.2;Store 2;Online Payment;State 2
+2020-06-28;Product C;38;458.44;17420.72;Store 3;Credit Card;State 1
+2023-06-02;Product D;99;653.96;64742.04;Store 2;Credit Card;State 1
+2020-02-08;Product B;87;659.55;57380.85;Store 1;Cash;State 3
+2022-05-01;Product B;46;887.02;40802.92;Store 1;Online Payment;State 1
+2020-07-31;Product A;20;386.36;7727.2;Store 4;Debit Card;State 3
+2022-06-29;Product B;39;975.32;38037.48;Store 3;Online Payment;State 3
+2021-06-18;Product A;92;178.29;16402.68;Store 3;Cash;State 1
+2021-10-17;Product A;48;203.2;9753.6;Store 3;Credit Card;State 1
+2022-03-23;Product A;51;957.78;48846.78;Store 2;Debit Card;State 1
+2022-03-11;Product B;39;833.69;32513.91;Store 1;Credit Card;State 4
+2022-08-12;Product B;9;577.97;5201.73;Store 1;Credit Card;State 3
+2023-08-03;Product C;7;173.01;1211.07;Store 2;Online Payment;State 1
+2023-04-06;Product A;83;899.72;74676.76;Store 1;Cash;State 1
+2021-04-08;Product D;40;808.71;32348.4;Store 2;Credit Card;State 2
+2020-05-13;Product D;55;406.57;22361.35;Store 3;Online Payment;State 2
+2020-05-06;Product C;44;573.29;25224.76;Store 2;Debit Card;State 4
+2023-06-21;Product C;93;996.09;92636.37;Store 2;Online Payment;State 2
+2021-11-22;Product A;84;536.71;45083.64;Store 1;Online Payment;State 1
+2023-03-03;Product A;81;809.61;65578.41;Store 4;Credit Card;State 1
+2021-08-04;Product D;68;610.9;41541.2;Store 4;Debit Card;State 1
+2020-04-11;Product A;34;679.55;23104.7;Store 3;Credit Card;State 1
+2020-04-24;Product D;85;640.96;54481.6;Store 4;Debit Card;State 1
+2022-10-26;Product A;8;396.4;3171.2;Store 2;Debit Card;State 1
+2023-07-04;Product B;28;758.85;21247.8;Store 4;Online Payment;State 1
+2020-12-10;Product C;44;720.29;31692.76;Store 2;Credit Card;State 3
+2022-05-13;Product A;39;647.6;25256.4;Store 4;Cash;State 3
+2022-04-15;Product D;28;376.04;10529.12;Store 3;Online Payment;State 3
+2021-08-09;Product C;13;531.82;6913.66;Store 1;Online Payment;State 2
+2020-01-17;Product C;51;207.38;10576.38;Store 3;Online Payment;State 4
+2021-06-28;Product A;12;753.38;9040.56;Store 2;Debit Card;State 2
+2021-05-02;Product A;28;179.62;5029.36;Store 3;Credit Card;State 4
+2021-12-14;Product D;84;405.64;34073.76;Store 3;Credit Card;State 1
+2020-01-11;Product D;95;816.09;77528.55;Store 2;Credit Card;State 1
+2023-10-15;Product C;14;377.8;5289.2;Store 1;Online Payment;State 4
+2023-07-30;Product B;2;229.31;458.62;Store 3;Cash;State 1
+2023-10-08;Product B;44;867.89;38187.16;Store 4;Online Payment;State 2
+2020-03-11;Product D;51;448.21;22858.71;Store 2;Debit Card;State 3
+2021-08-20;Product B;25;195.29;4882.25;Store 3;Cash;State 4
+2020-10-25;Product A;37;438.48;16223.76;Store 2;Credit Card;State 3
+2022-01-06;Product D;18;871.3;15683.4;Store 4;Cash;State 2
+2021-01-09;Product B;68;435.03;29582.04;Store 3;Cash;State 2
+2021-08-05;Product B;89;331.27;29483.03;Store 3;Debit Card;State 4
+2021-02-16;Product A;2;150.48;300.96;Store 2;Credit Card;State 4
+2020-01-03;Product D;23;929.88;21387.24;Store 3;Debit Card;State 3
+2021-06-05;Product A;78;401.06;31282.68;Store 3;Online Payment;State 2
+2022-12-14;Product C;40;628.0;25120.0;Store 2;Cash;State 2
+2020-07-14;Product D;55;352.65;19395.75;Store 4;Debit Card;State 3
+2022-10-27;Product D;95;466.1;44279.5;Store 1;Cash;State 1
+2020-07-16;Product A;65;499.47;32465.55;Store 3;Credit Card;State 2
+2022-03-07;Product A;91;663.11;60343.01;Store 1;Credit Card;State 2
+2020-01-20;Product A;31;593.92;18411.52;Store 3;Online Payment;State 1
+2021-02-12;Product D;69;634.45;43777.05;Store 2;Credit Card;State 3
+2022-08-31;Product A;10;215.62;2156.2;Store 3;Online Payment;State 1
+2020-09-21;Product A;79;568.18;44886.22;Store 2;Cash;State 3
+2022-07-30;Product D;43;427.29;18373.47;Store 2;Cash;State 3
+2023-08-12;Product C;87;487.34;42398.58;Store 4;Online Payment;State 3
+2023-10-12;Product A;85;636.0;54060.0;Store 3;Cash;State 2
+2021-08-26;Product D;73;855.92;62482.16;Store 3;Cash;State 4
+2021-06-09;Product C;65;215.32;13995.8;Store 3;Debit Card;State 1
+2021-12-24;Product A;18;380.07;6841.26;Store 1;Debit Card;State 3
+2022-03-23;Product C;33;206.51;6814.83;Store 2;Debit Card;State 2
+2023-11-23;Product D;18;748.54;13473.72;Store 3;Credit Card;State 3
+2023-06-13;Product B;63;614.72;38727.36;Store 1;Cash;State 1
+2023-08-21;Product B;61;821.4;50105.4;Store 3;Cash;State 3
+2022-08-20;Product A;77;495.75;38172.75;Store 4;Credit Card;State 3
+2023-06-07;Product B;60;723.59;43415.4;Store 3;Cash;State 3
+2023-05-28;Product C;25;804.72;20118.0;Store 2;Credit Card;State 4
+2021-11-29;Product C;6;188.16;1128.96;Store 2;Online Payment;State 3
+2020-05-06;Product C;73;612.08;44681.84;Store 4;Cash;State 1
+2022-02-02;Product C;47;461.36;21683.92;Store 2;Cash;State 1
+2022-08-27;Product B;37;545.3;20176.1;Store 1;Online Payment;State 4
+2023-08-16;Product B;30;136.86;4105.8;Store 1;Credit Card;State 1
+2023-12-12;Product C;29;487.43;14135.47;Store 4;Online Payment;State 3
+2021-10-17;Product A;56;525.4;29422.4;Store 4;Cash;State 1
+2022-03-17;Product D;3;976.03;2928.09;Store 2;Debit Card;State 1
+2020-11-06;Product A;82;155.25;12730.5;Store 4;Debit Card;State 3
+2022-11-08;Product B;18;891.93;16054.74;Store 1;Cash;State 4
+2022-02-06;Product D;81;750.53;60792.93;Store 1;Credit Card;State 2
+2020-05-04;Product B;25;977.45;24436.25;Store 1;Online Payment;State 1
+2023-05-30;Product C;98;795.98;78006.04;Store 1;Online Payment;State 4
+2023-03-16;Product A;97;877.73;85139.81;Store 3;Credit Card;State 1
+2021-08-28;Product A;93;834.02;77563.86;Store 4;Online Payment;State 1
+2022-04-01;Product C;2;901.84;1803.68;Store 1;Cash;State 1
+2021-11-07;Product B;45;791.28;35607.6;Store 2;Debit Card;State 3
+2020-12-22;Product D;3;384.23;1152.69;Store 2;Credit Card;State 3
+2023-06-01;Product D;89;895.5;79699.5;Store 4;Debit Card;State 3
+2020-03-23;Product B;68;790.94;53783.92;Store 2;Online Payment;State 1
+2020-08-31;Product C;31;367.27;11385.37;Store 4;Credit Card;State 4
+2021-02-20;Product D;68;350.83;23856.44;Store 4;Credit Card;State 2
+2022-06-27;Product A;44;576.38;25360.72;Store 2;Cash;State 4
+2023-08-03;Product D;48;936.5;44952.0;Store 2;Online Payment;State 2
+2023-12-20;Product C;80;999.44;79955.2;Store 4;Credit Card;State 2
+2023-05-31;Product D;34;755.9;25700.6;Store 2;Cash;State 2
+2023-10-27;Product B;33;673.09;22211.97;Store 1;Cash;State 1
+2023-08-27;Product C;13;283.1;3680.3;Store 1;Online Payment;State 2
+2021-02-09;Product D;27;195.21;5270.67;Store 1;Credit Card;State 2
+2020-03-15;Product B;72;752.39;54172.08;Store 1;Debit Card;State 1
+2020-11-23;Product B;22;117.06;2575.32;Store 1;Cash;State 1
+2021-11-19;Product A;27;406.42;10973.34;Store 1;Cash;State 2
+2023-06-07;Product A;87;374.87;32613.69;Store 3;Online Payment;State 4
+2020-03-02;Product B;27;754.9;20382.3;Store 1;Debit Card;State 3
+2023-12-19;Product B;25;373.48;9337.0;Store 4;Debit Card;State 1
+2021-12-25;Product B;42;806.6;33877.2;Store 2;Debit Card;State 4
+2020-08-09;Product A;68;397.37;27021.16;Store 4;Credit Card;State 2
+2021-05-10;Product D;4;336.97;1347.88;Store 3;Debit Card;State 3
+2020-01-31;Product B;20;516.1;10322.0;Store 2;Debit Card;State 1
+2023-02-09;Product B;71;439.91;31233.61;Store 3;Debit Card;State 3
+2021-02-13;Product A;64;911.64;58344.96;Store 4;Cash;State 1
+2020-05-22;Product A;24;767.08;18409.92;Store 1;Cash;State 1
+2022-12-22;Product D;5;801.96;4009.8;Store 3;Debit Card;State 3
+2022-11-04;Product B;23;839.48;19308.04;Store 3;Credit Card;State 2
+2022-07-19;Product C;91;479.72;43654.52;Store 1;Debit Card;State 4
+2020-01-14;Product B;16;227.97;3647.52;Store 2;Cash;State 4
+2022-09-19;Product D;30;146.45;4393.5;Store 3;Online Payment;State 4
+2021-03-30;Product A;55;614.56;33800.8;Store 4;Cash;State 3
+2020-12-24;Product D;65;468.81;30472.65;Store 1;Credit Card;State 4
+2020-02-20;Product B;10;617.03;6170.3;Store 4;Online Payment;State 3
+2021-09-12;Product D;31;726.11;22509.41;Store 2;Credit Card;State 1
+2021-05-30;Product A;23;446.11;10260.53;Store 1;Credit Card;State 4
+2020-05-03;Product A;3;267.3;801.9;Store 1;Debit Card;State 2
+2021-11-26;Product A;74;186.0;13764.0;Store 2;Debit Card;State 1
+2022-12-17;Product D;23;327.92;7542.16;Store 1;Debit Card;State 1
+2021-12-18;Product D;53;188.46;9988.38;Store 3;Cash;State 1
+2022-04-19;Product A;48;528.05;25346.4;Store 3;Credit Card;State 3
+2021-02-22;Product B;98;622.34;60989.32;Store 3;Cash;State 2
+2020-07-04;Product C;34;675.86;22979.24;Store 4;Debit Card;State 2
+2021-05-19;Product D;11;976.36;10739.96;Store 4;Credit Card;State 3
+2023-03-30;Product B;63;825.44;52002.72;Store 4;Credit Card;State 1
+2023-09-17;Product A;94;848.36;79745.84;Store 1;Cash;State 3
+2022-05-17;Product B;5;108.54;542.7;Store 4;Credit Card;State 3
+2023-01-27;Product D;54;197.73;10677.42;Store 2;Cash;State 1
+2023-02-01;Product C;38;272.99;10373.62;Store 2;Debit Card;State 4
+2021-04-30;Product C;35;181.9;6366.5;Store 1;Cash;State 1
+2021-06-14;Product A;62;959.32;59477.84;Store 4;Online Payment;State 2
+2021-03-26;Product D;42;111.91;4700.22;Store 1;Credit Card;State 3
+2020-11-11;Product D;12;637.35;7648.2;Store 1;Debit Card;State 2
+2021-05-19;Product B;45;490.64;22078.8;Store 2;Debit Card;State 4
+2021-09-02;Product D;86;723.4;62212.4;Store 3;Credit Card;State 4
+2023-08-31;Product C;4;630.8;2523.2;Store 3;Online Payment;State 4
+2020-06-30;Product C;18;164.41;2959.38;Store 4;Debit Card;State 3
+2021-05-16;Product C;52;171.11;8897.72;Store 4;Online Payment;State 4
+2020-05-30;Product B;47;693.11;32576.17;Store 2;Online Payment;State 3
+2020-09-26;Product A;89;878.52;78188.28;Store 3;Credit Card;State 2
+2020-12-31;Product D;18;140.79;2534.22;Store 4;Cash;State 1
+2022-02-28;Product C;2;275.19;550.38;Store 3;Online Payment;State 3
+2022-09-02;Product C;82;625.07;51255.74;Store 3;Cash;State 2
+2022-04-05;Product A;56;166.24;9309.44;Store 2;Cash;State 2
+2022-07-31;Product C;52;669.19;34797.88;Store 2;Debit Card;State 4
+2023-01-09;Product C;68;599.06;40736.08;Store 2;Debit Card;State 4
+2021-01-07;Product B;8;193.36;1546.88;Store 2;Credit Card;State 3
+2021-07-29;Product A;47;919.22;43203.34;Store 3;Cash;State 2
+2021-06-13;Product A;56;803.52;44997.12;Store 1;Debit Card;State 3
+2022-06-03;Product C;16;494.83;7917.28;Store 4;Credit Card;State 4
+2023-02-19;Product D;33;543.84;17946.72;Store 1;Credit Card;State 4
+2023-02-26;Product C;15;952.66;14289.9;Store 2;Credit Card;State 1
+2023-12-19;Product C;71;938.02;66599.42;Store 4;Cash;State 3
+2021-11-07;Product B;93;350.5;32596.5;Store 1;Cash;State 1
+2020-12-08;Product A;64;546.3;34963.2;Store 4;Debit Card;State 4
+2021-07-26;Product B;39;472.51;18427.89;Store 2;Online Payment;State 3
+2022-09-04;Product C;52;623.54;32424.08;Store 2;Credit Card;State 2
+2020-08-31;Product A;97;536.1;52001.7;Store 4;Credit Card;State 3
+2022-01-04;Product B;25;686.35;17158.75;Store 2;Cash;State 4
+2021-03-08;Product B;24;688.6;16526.4;Store 2;Online Payment;State 2
+2022-02-01;Product D;52;577.4;30024.8;Store 1;Online Payment;State 4
+2022-03-11;Product C;55;900.77;49542.35;Store 3;Debit Card;State 1
+2023-08-07;Product A;48;108.84;5224.32;Store 3;Credit Card;State 1
+2020-07-20;Product C;46;411.51;18929.46;Store 3;Online Payment;State 4
+2021-10-14;Product D;12;935.19;11222.28;Store 3;Debit Card;State 1
+2023-07-14;Product D;34;846.1;28767.4;Store 4;Cash;State 3
+2022-12-25;Product B;14;405.88;5682.32;Store 3;Cash;State 3
+2020-12-20;Product A;17;831.37;14133.29;Store 1;Credit Card;State 3
+2021-03-22;Product C;51;288.53;14715.03;Store 1;Debit Card;State 4
+2021-05-15;Product C;22;329.95;7258.9;Store 2;Credit Card;State 4
+2022-03-24;Product C;87;757.62;65912.94;Store 2;Credit Card;State 2
+2023-06-03;Product A;5;303.39;1516.95;Store 4;Cash;State 1
+2023-02-03;Product B;22;831.02;18282.44;Store 3;Cash;State 4
+2023-06-14;Product A;32;685.64;21940.48;Store 1;Debit Card;State 3
+2020-04-07;Product A;5;656.31;3281.55;Store 4;Cash;State 1
+2020-06-15;Product C;55;635.56;34955.8;Store 2;Online Payment;State 1
+2023-10-30;Product A;23;115.32;2652.36;Store 3;Debit Card;State 4
+2020-07-02;Product D;29;711.97;20647.13;Store 2;Debit Card;State 1
+2020-04-21;Product C;54;120.13;6487.02;Store 4;Credit Card;State 3
+2021-07-02;Product B;76;233.74;17764.24;Store 4;Credit Card;State 4
+2020-02-21;Product D;73;465.37;33972.01;Store 3;Debit Card;State 4
+2023-10-17;Product C;37;832.02;30784.74;Store 2;Debit Card;State 3
+2023-07-07;Product A;32;383.04;12257.28;Store 1;Debit Card;State 3
+2020-09-06;Product B;87;616.69;53652.03;Store 2;Online Payment;State 4
+2022-07-06;Product D;66;476.0;31416.0;Store 3;Debit Card;State 4
+2023-10-16;Product A;62;919.09;56983.58;Store 4;Cash;State 4
+2021-06-10;Product B;10;501.3;5013.0;Store 4;Cash;State 1
+2023-12-30;Product C;47;428.58;20143.26;Store 3;Credit Card;State 2
+2021-02-06;Product C;62;337.47;20923.14;Store 1;Credit Card;State 3
+2023-10-05;Product A;15;550.61;8259.15;Store 2;Online Payment;State 4
+2022-03-16;Product B;18;285.31;5135.58;Store 3;Credit Card;State 3
+2020-10-03;Product C;22;312.55;6876.1;Store 3;Debit Card;State 1
+2023-10-24;Product D;85;926.4;78744.0;Store 1;Credit Card;State 3
+2021-08-08;Product B;94;329.02;30927.88;Store 1;Credit Card;State 1
